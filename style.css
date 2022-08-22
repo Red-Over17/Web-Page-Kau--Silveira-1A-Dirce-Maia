@@ -1,0 +1,94 @@
+html {
+    width: 980px;
+}
+
+body {
+    width: 800px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner {
+    width: 750px;
+    margin: auto;
+}
+
+.ban {
+    width: 750px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    border: 3px solid black;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu {
+    width: 750px;
+    margin: auto;
+}
+
+.menu li{
+    width: 350px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 3px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.menu li:hover {
+    width: 360px;
+    border: 3px solid blue;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu h1 {
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.imgmenu {
+    width: 335px;
+}
+
+h6 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
